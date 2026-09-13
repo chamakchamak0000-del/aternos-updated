@@ -1,0 +1,114 @@
+{
+  "name": "AFK Bot",
+  "bot-account": {
+    "username": "brainpal",
+    "password": "",
+    "type": "offline"
+  },
+  "bot-accounts": [
+    { "username": "brainpal", "password": "", "type": "offline" },
+    { "username": "AFKBot_02", "password": "", "type": "offline" },
+    { "username": "AFKBot_03", "password": "", "type": "offline" },
+    { "username": "AFKBot_04", "password": "", "type": "offline" },
+    { "username": "AFKBot_05", "password": "", "type": "offline" },
+    { "username": "AFKBot_06", "password": "", "type": "offline" },
+    { "username": "AFKBot_07", "password": "", "type": "offline" },
+    { "username": "AFKBot_08", "password": "", "type": "offline" },
+    { "username": "AFKBot_09", "password": "", "type": "offline" },
+    { "username": "AFKBot_10", "password": "", "type": "offline" },
+    { "username": "AFKBot_11", "password": "", "type": "offline" },
+    { "username": "AFKBot_12", "password": "", "type": "offline" },
+    { "username": "AFKBot_13", "password": "", "type": "offline" },
+    { "username": "AFKBot_14", "password": "", "type": "offline" }
+  ],
+  "rotation": {
+    "interval-hours": 2,
+    "retry-min-ms": 3000,
+    "retry-max-ms": 30000,
+    "cooldown-ms": 30000,
+    "spawn-timeout-ms": 60000
+  },
+  "server": {
+    "ip": "sahil876457.aternos.me",
+    "port": 26331,
+    "version": "1.21.1"
+  },
+  "position": {
+    "enabled": true,
+    "x": 0,
+    "y": 100,
+    "z": 0
+  },
+  "utils": {
+    "auto-auth": {
+      "enabled": true,
+      "password": "Perzuu"
+    },
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 500,
+      "messages": [
+        "I'm a regular player",
+        "Swadesh is Gay!",
+        "I like to play Minecraft!"
+      ]
+    },
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-reconnect-delay": 2000,
+    "max-reconnect-delay": 20000,
+    "periodic-rejoin": {
+      "enabled": true,
+      "min-interval": 20,
+      "max-interval": 60
+    }
+  },
+  "movement": {
+    "enabled": true,
+    "circle-walk": {
+      "enabled": true,
+      "radius": 4,
+      "speed": 3000
+    },
+    "look-around": {
+      "enabled": true,
+      "interval": 5000
+    },
+    "random-jump": {
+      "enabled": true,
+      "interval": 10000
+    }
+  },
+  "modules": {
+    "avoidMobs": true,
+    "combat": true,
+    "beds": true,
+    "chat": true,
+    "console-commands": true
+  },
+  "combat": {
+    "attack-mobs": true,
+    "auto-eat": true
+  },
+  "beds": {
+    "pick-up-day": true,
+    "place-night": true
+  },
+  "discord": {
+    "enabled": true,
+    "webhookUrl": "https://discord.com/api/webhooks/1472567640521183243/7DzSIaCSM_9-5DjzrlAuP9Tdj7Y3yAP6BHg3scKzhaRFdVk8ctWBlhOc7I8l5xC6Nqm3",
+    "events": {
+      "connect": true,
+      "disconnect": true,
+      "chat": false
+    }
+  },
+  "chat": {
+    "respond": true
+  }
+}
