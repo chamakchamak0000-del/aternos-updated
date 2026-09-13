@@ -1,25 +1,81 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "brainpal",
+    "username": "NovaBirch",
     "password": "",
     "type": "offline"
   },
   "bot-accounts": [
-    { "username": "brainpal", "password": "", "type": "offline" },
-    { "username": "AFKBot_02", "password": "", "type": "offline" },
-    { "username": "AFKBot_03", "password": "", "type": "offline" },
-    { "username": "AFKBot_04", "password": "", "type": "offline" },
-    { "username": "AFKBot_05", "password": "", "type": "offline" },
-    { "username": "AFKBot_06", "password": "", "type": "offline" },
-    { "username": "AFKBot_07", "password": "", "type": "offline" },
-    { "username": "AFKBot_08", "password": "", "type": "offline" },
-    { "username": "AFKBot_09", "password": "", "type": "offline" },
-    { "username": "AFKBot_10", "password": "", "type": "offline" },
-    { "username": "AFKBot_11", "password": "", "type": "offline" },
-    { "username": "AFKBot_12", "password": "", "type": "offline" },
-    { "username": "AFKBot_13", "password": "", "type": "offline" },
-    { "username": "AFKBot_14", "password": "", "type": "offline" }
+    {
+      "username": "NovaBirch",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "EmberQuartz",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "PixelMoss",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "LunarCedar",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "FrostNectar",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "CobaltFern",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "AmberOrbit",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "ShadowPine",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "MistyComet",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "CrimsonVale",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "SilverBadger",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "EchoMeadow",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "VioletForge",
+      "password": "",
+      "type": "offline"
+    },
+    {
+      "username": "GoldenWisp",
+      "password": "",
+      "type": "offline"
+    }
   ],
   "rotation": {
     "interval-hours": 2,
